@@ -84,7 +84,7 @@
   "mounts": [
     "source=${localWorkspaceFolder:-.}/vs-snippets/snippets,target=${containerWorkspaceFolder}/.vscode,type=bind,consistency=cached,readonly"
   ],
-  "onCreateCommand" : "git submodule update --init --recursive",
+  "onCreateCommand": "git submodule update --init --recursive",
   "postCreateCommand": "chmod +x ${containerWorkspaceFolder}/.devcontainer/postCreateScript.sh && ${containerWorkspaceFolder}/.devcontainer/postCreateScript.sh",
   "runArgs": [
     "--rm",
