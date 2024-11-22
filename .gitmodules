@@ -1,0 +1,51 @@
+[submodule "Bazel_Cpp_Template"]
+	path = Bazel_Cpp_Template
+	url = https://github.com/gvatsal60/Bazel_Cpp_Template.git
+[submodule "CleanupScheduler"]
+	path = CleanupScheduler
+	url = https://github.com/gvatsal60/CleanupScheduler.git
+[submodule "clg-lib-mgmt"]
+	path = clg-lib-mgmt
+	url = https://github.com/gvatsal60/clg-lib-mgmt.git
+[submodule "CMakeTemplateDocker"]
+	path = CMakeTemplateDocker
+	url = https://github.com/gvatsal60/CMakeTemplateDocker.git
+[submodule "CppDockerMakeTemplate"]
+	path = CppDockerMakeTemplate
+	url = https://github.com/gvatsal60/CppDockerMakeTemplate.git
+[submodule "Custom-WSL-OS"]
+	path = Custom-WSL-OS
+	url = https://github.com/gvatsal60/Custom-WSL-OS.git
+[submodule "dev-container-features"]
+	path = dev-container-features
+	url = https://github.com/gvatsal60/dev-container-features.git
+[submodule "gvatsal60"]
+	path = gvatsal60
+	url = https://github.com/gvatsal60/gvatsal60.git
+[submodule "Linux-Aliases"]
+	path = Linux-Aliases
+	url = https://github.com/gvatsal60/Linux-Aliases.git
+[submodule "Linux-All-In-One-Update-Script"]
+	path = Linux-All-In-One-Update-Script
+	url = https://github.com/gvatsal60/Linux-All-In-One-Update-Script.git
+[submodule "project-template"]
+	path = project-template
+	url = https://github.com/gvatsal60/project-template.git
+[submodule "Rust-Leptos-Moonbound"]
+	path = Rust-Leptos-Moonbound
+	url = https://github.com/gvatsal60/Rust-Leptos-Moonbound.git
+[submodule "portfolio"]
+	path = portfolio
+	url = https://github.com/gvatsal60/portfolio.git
+[submodule "rustify"]
+	path = rustify
+	url = https://github.com/gvatsal60/rustify.git
+[submodule "SolidCore"]
+	path = SolidCore
+	url = https://github.com/gvatsal60/SolidCore.git
+[submodule "tcp-ip-pkt-gen"]
+	path = tcp-ip-pkt-gen
+	url = https://github.com/gvatsal60/tcp-ip-pkt-gen.git
+[submodule "vs-snippets"]
+	path = vs-snippets
+	url = https://github.com/gvatsal60/vs-snippets.git
