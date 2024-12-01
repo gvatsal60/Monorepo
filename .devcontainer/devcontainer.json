@@ -6,6 +6,7 @@
     "vscode": {
       "extensions": [
         "DavidAnson.vscode-markdownlint",
+        "EditorConfig.EditorConfig",
         "Gruntfuggly.todo-tree",
         "PKief.material-icon-theme",
         "SonarSource.sonarlint-vscode",
@@ -77,10 +78,7 @@
       }
     }
   },
-  "features": {
-    "ghcr.io/gvatsal60/dev-container-features/sonarlint": {}
-  },
-  "image": "mcr.microsoft.com/devcontainers/base:noble",
+  "image": "mcr.microsoft.com/vscode/devcontainers/javascript-node",
   "mounts": [
     "source=${localWorkspaceFolder:-.}/vs-snippets/snippets,target=${containerWorkspaceFolder}/.vscode,type=bind,consistency=cached,readonly"
   ],
