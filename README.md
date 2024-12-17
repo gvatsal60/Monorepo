@@ -1,7 +1,6 @@
 # Monorepo
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://img.shields.io/github/license/gvatsal60/Monorepo)
-[![build status](https://github.com/gvatsal60/Monorepo/actions/workflows/readme-checker.yaml/badge.svg)](https://github.com/gvatsal60/Monorepo/actions/workflows/readme-checker.yaml)
 [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/gvatsal60/Monorepo/master.svg)](https://results.pre-commit.ci/latest/github/gvatsal60/Monorepo/HEAD)
 ![GitHub pull-requests](https://img.shields.io/github/issues-pr/gvatsal60/Monorepo)
 ![GitHub Issues](https://img.shields.io/github/issues/gvatsal60/Monorepo)
