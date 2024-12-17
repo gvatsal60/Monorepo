@@ -13,6 +13,7 @@
         "Tyriar.sort-lines",
         "bradzacher.vscode-copy-filename",
         "esbenp.prettier-vscode",
+        "foxundermoon.shell-format",
         "gurumukhi.selected-lines-count",
         "ms-azuretools.vscode-docker",
         "streetsidesoftware.code-spell-checker",
@@ -78,7 +79,7 @@
       }
     }
   },
-  "image": "mcr.microsoft.com/vscode/devcontainers/javascript-node",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node",
   "mounts": [
     "source=${localWorkspaceFolder:-.}/vs-snippets/snippets,target=${containerWorkspaceFolder}/.vscode,type=bind,consistency=cached,readonly"
   ],
