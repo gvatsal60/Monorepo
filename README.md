@@ -8,7 +8,8 @@
 ![GitHub forks](https://img.shields.io/github/forks/gvatsal60/Monorepo)
 ![GitHub stars](https://img.shields.io/github/stars/gvatsal60/Monorepo)
 
-## Welcome to my personal mono-repo!
+## Welcome to my personal mono-repo
+
 Please refrain from submitting any pull requests for this repository, as it is currently maintained by me.
 
 ## Installation
