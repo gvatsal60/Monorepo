@@ -4,12 +4,9 @@
 [submodule "CleanupScheduler"]
 	path = CleanupScheduler
 	url = https://github.com/gvatsal60/CleanupScheduler.git
-[submodule "clg-lib-mgmt"]
-	path = clg-lib-mgmt
-	url = https://github.com/gvatsal60/clg-lib-mgmt.git
-[submodule "CMakeTemplateDocker"]
-	path = CMakeTemplateDocker
-	url = https://github.com/gvatsal60/CMakeTemplateDocker.git
+[submodule "CMakeDockerTemplate"]
+	path = CMakeDockerTemplate
+	url = https://github.com/gvatsal60/CMakeDockerTemplate.git
 [submodule "CppDockerMakeTemplate"]
 	path = CppDockerMakeTemplate
 	url = https://github.com/gvatsal60/CppDockerMakeTemplate.git
@@ -31,12 +28,6 @@
 [submodule "project-template"]
 	path = project-template
 	url = https://github.com/gvatsal60/project-template.git
-[submodule "Rust-Leptos-Moonbound"]
-	path = Rust-Leptos-Moonbound
-	url = https://github.com/gvatsal60/Rust-Leptos-Moonbound.git
-[submodule "portfolio"]
-	path = portfolio
-	url = https://github.com/gvatsal60/portfolio.git
 [submodule "rustify"]
 	path = rustify
 	url = https://github.com/gvatsal60/rustify.git
